@@ -1,0 +1,3 @@
+acertos = respostas.count(T)
+
+

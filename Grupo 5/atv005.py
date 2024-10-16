@@ -1,4 +1,9 @@
 #Contagem na lista a quantidade de elementos iguais
-acertos = respostas.count(T)
+T = int(input())
 
+resposta=list(map(int,input()))
+
+acertos = resposta.count(T)
+
+print(acertos)
 

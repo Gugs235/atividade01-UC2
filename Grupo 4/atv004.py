@@ -7,3 +7,5 @@ while True:
          break
     else:
         #faz a multiplicação dos valores
+        e = x * m
+        print(f"O monstro que normalmente dá {m} de XP agora ira dar {e}")
